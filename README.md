@@ -15,7 +15,7 @@ Hello, I'm dev-smurf, a computer science student passionate about software devel
 - C#
 - Lua (currently learning)
 - PHP (interest)
-- Java (interest)
+- Java (currently learning)
 - C/C++ (interest)
 
 ## How to Reach Me
