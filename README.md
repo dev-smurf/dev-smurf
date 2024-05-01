@@ -19,6 +19,6 @@ Hello, I'm dev-smurf, a computer science student passionate about software devel
 - C/C++ (interest)
 
 ## How to Reach Me
-Feel free to contact me if you have any questions, suggestions, or if you'd like to discuss potential projects. You can reach me via on discord at _smurf. or through my GitHub profile.
+Feel free to contact me if you have any questions, suggestions, or if you'd like to discuss potential projects. You can reach me via discord at _smurf. or through my GitHub profile.
 
 Thanks for visiting my profile!
