@@ -1,4 +1,4 @@
-le# Welcome to my GitHub profile!
+# Welcome to my GitHub profile!
 
 ## About Me
 Hello, I'm dev-smurf, a computer science student passionate about software development and creating innovative projects. Currently, I'm exploring several programming languages including JavaScript, Python, HTML, CSS, and C#. Additionally, I'm also interested in other languages such as Lua, PHP, Java, C, C++, and more.
