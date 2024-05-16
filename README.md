@@ -22,6 +22,6 @@ Hello, I'm dev-smurf, a computer science student passionate about software devel
 Feel free to contact me if you have any questions, suggestions, or if you'd like to discuss potential projects. You can reach me via discord at _smurf. or through my GitHub profile.
 
 ## Website
-(My Website)[dev-smurf.live]
+[My Website](dev-smurf.live)
 
 Thanks for visiting my profile!
