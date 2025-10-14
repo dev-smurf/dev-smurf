@@ -18,7 +18,7 @@ Hello, I'm dev-smurf, a computer science student passionate about software devel
 - Java (currently learning)
 - C/C++ (interest)
 - Docker
-- Flask, Django, Next.js, View.js, Express.js
+- Flask, Django, Next.js, Vue.js, Express.js
 - OpenAI API
 
 ## How to Reach Me
