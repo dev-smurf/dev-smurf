@@ -17,6 +17,9 @@ Hello, I'm dev-smurf, a computer science student passionate about software devel
 - PHP (currently learning)
 - Java (currently learning)
 - C/C++ (interest)
+- Docker
+- Flask, Django, Next.js, View.js, Express.js
+- OpenAI API
 
 ## How to Reach Me
 Feel free to contact me if you have any questions, suggestions, or if you'd like to discuss potential projects. You can reach me via discord at _smurf. or through my GitHub profile.
