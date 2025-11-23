@@ -22,7 +22,7 @@ Docker, Git, OpenAI API
 📩 **Discord :** `_smurf.`  
 
 🔗 **LinkedIn :**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Gingras-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-gingras)
+[![LinkedIn](https://www.linkedin.com/in/dev-gabgingras/)
 
 ---
 
