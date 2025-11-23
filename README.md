@@ -1,27 +1,29 @@
-# Welcome to my GitHub profile!
+# 👋 Bienvenue sur mon profil GitHub
 
-## About Me
-Hello, I'm dev-smurf, a computer science student passionate about software development and creating innovative projects. Currently, I'm exploring several programming languages including JavaScript, Python, HTML, CSS, and C#. Additionally, I'm also interested in other languages such as Lua, PHP, Java, C, C++, and more.
+## À propos de moi
+Je suis **Gabriel Gingras**, étudiant en informatique passionné par le développement logiciel, la cybersécurité et la création de projets concrets. J’aime apprendre de nouvelles technologies et développer des solutions simples, efficaces et bien structurées.
 
-## What I'm Doing
-- Learning and developing skills in JavaScript, Python, HTML, CSS, and C#.
-- Working on various personal projects to put my knowledge into practice and develop new skills.
-- Open to collaborating on interesting projects and always looking for new opportunities to contribute to open source projects.
+## Ce que je fais actuellement
+- Développement en **Python**, **C#/.NET**, **JavaScript**
+- Création d’applications web (FastAPI, Next.js, Vue.js, Django)
+- Automatisation, scripts backend, outils internes
+- Participation à des projets personnels, scolaires et open-source
+- Intérêt pour la cybersécurité et l’analyse de vulnérabilités
 
-## Languages & Tools
-- JavaScript
-- Python
-- HTML/CSS
-- C#
-- Lua (currently learning)
-- PHP (currently learning)
-- Java (currently learning)
-- C/C++ (interest)
-- Docker
-- Flask, Django, Next.js, Vue.js, Express.js
-- OpenAI API
+## Langages & Outils
+**Langages :**  
+Python, C#/.NET, JavaScript, Java (bases), SQL, Bash
 
-## How to Reach Me
-Feel free to contact me if you have any questions, suggestions, or if you'd like to discuss potential projects. You can reach me via discord at _smurf. or through my GitHub profile.
+**Frameworks / Technologies :**  
+FastAPI, Django, Next.js, Vue.js, Express.js  
+Docker, Git, OpenAI API
 
-Thanks for visiting my profile!
+## Me contacter
+📩 **Discord :** `_smurf.`  
+
+🔗 **LinkedIn :**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Gingras-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-gingras)
+
+---
+
+Merci d’avoir visité mon profil !
