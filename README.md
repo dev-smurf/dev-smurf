@@ -22,7 +22,7 @@ Docker, Git, OpenAI API
 📩 **Discord :** `_smurf.`  
 
 🔗 **LinkedIn :**  
-[![LinkedIn](https://www.linkedin.com/in/dev-gabgingras/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--gabgingras-blue?logo=linkedin)](https://www.linkedin.com/in/dev-gabgingras/)
 
 ---
 
