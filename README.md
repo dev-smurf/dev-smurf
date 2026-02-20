@@ -1,29 +1,26 @@
-# 👋 Bienvenue sur mon profil GitHub
+# Hey, I'm Gabriel Gingras 👋
 
-## À propos de moi
-Je suis **Gabriel Gingras**, étudiant en informatique passionné par le développement logiciel, la cybersécurité et la création de projets concrets. J’aime apprendre de nouvelles technologies et développer des solutions simples, efficaces et bien structurées.
+CS student from Quebec · Entrepreneur · Builder
 
-## Ce que je fais actuellement
-- Développement en **Python**, **C#/.NET**, **JavaScript**
-- Création d’applications web (FastAPI, Next.js, Vue.js, Django)
-- Automatisation, scripts backend, outils internes
-- Participation à des projets personnels, scolaires et open-source
-- Intérêt pour la cybersécurité et l’analyse de vulnérabilités
+Currently building **[Homard Cloud](https://homard.cloud/)** — an AI agent hosting platform for SMEs, and running **[Backdoor](https://backdoor-project.com/)**, my clothing brand.
 
-## Langages & Outils
-**Langages :**  
-Python, C#/.NET, JavaScript, Java (bases), SQL, Bash
+Deeply interested in **agentic AI engineering** — designing autonomous systems that reason, act, and integrate into real business workflows.
 
-**Frameworks / Technologies :**  
-FastAPI, Django, Next.js, Vue.js, Express.js  
-Docker, Git, OpenAI API
+## Tech
 
-## Me contacter
-📩 **Discord :** `_smurf.`  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
+![Claude](https://img.shields.io/badge/-Claude-D97757?logo=anthropic&logoColor=white&style=flat-square)
+![OpenAI Codex](https://img.shields.io/badge/-Codex-412991?logo=openai&logoColor=white&style=flat-square)
 
-🔗 **LinkedIn :**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--gabgingras-blue?logo=linkedin)](https://www.linkedin.com/in/dev-gabgingras/)
+## Connect
 
----
-
-Merci d’avoir visité mon profil !
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/dev-gabgingras/)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=flat-square)](#)
