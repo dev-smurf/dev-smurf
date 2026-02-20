@@ -2,7 +2,7 @@
 
 CS student from Quebec · Entrepreneur · Builder
 
-Currently building **[Homard Cloud](https://homard.cloud/)** — an AI agent hosting platform for SMEs, and running **[Backdoor](https://backdoor-project.com/)**, my clothing brand.
+Currently building **[Homard Cloud](https://homard.cloud/)** — an AI agent hosting platform for SMEs, and running **[Backdoor Project](https://backdoor-project.com/)**, my clothing brand.
 
 Deeply interested in **agentic AI engineering** — designing autonomous systems that reason, act, and integrate into real business workflows.
 
