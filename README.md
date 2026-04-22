@@ -1,8 +1,8 @@
-# Gabriel Gingras —
+# Hey, I'm Gab!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Builder;Entrepreneur;Quant+Trading;Agentic+AI&font=Inter&weight=600&size=20&duration=2000&pause=1500&color=9198a1&center=false&vCenter=true&width=250&height=28&repeat=true" />
-  <img src="https://readme-typing-svg.demolab.com/?lines=Builder;Entrepreneur;Quant+Trading;Agentic+AI&font=Inter&weight=600&size=20&duration=2000&pause=1500&color=656d76&center=false&vCenter=true&width=250&height=28&repeat=true" alt="Builder, Entrepreneur, Quant Trading, Agentic AI" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Builder.;Entrepreneur.;Quant+Trading.;Agentic+AI.&font=Inter&weight=600&size=20&duration=2000&pause=1500&color=9198a1&center=false&vCenter=true&width=250&height=28&repeat=true" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Builder.;Entrepreneur.;Quant+Trading.;Agentic+AI.&font=Inter&weight=600&size=20&duration=2000&pause=1500&color=656d76&center=false&vCenter=true&width=250&height=28&repeat=true" alt="Builder, Entrepreneur, Quant Trading, Agentic AI" />
 </picture>
 
 Currently working on a **quantitative trading** system and running **[Backdoor Project](https://backdoor-project.com/)**.
