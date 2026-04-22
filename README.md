@@ -7,7 +7,7 @@
 
 Currently working on a **quantitative trading** system and running **[Backdoor Project](https://backdoor-project.com/)**.
 
-`quant` `claude` `finance` `ai` `python` `kubernetes`
+`quant` `claude` `finance` `ai` `kubernetes`
 
 ---
 
