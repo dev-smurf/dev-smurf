@@ -1,6 +1,6 @@
 # Hey, I'm Gabriel Gingras
 
-CS student from Quebec. I like to build things.
+<a href="https://gabrielgingras.me"><img src="https://readme-typing-svg.demolab.com/?lines=Builder;Entrepreneur;Quant+Trading;Agentic+AI&font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=2c2418&center=false&vCenter=true&width=300&height=30&repeat=true" alt="Typing SVG" /></a>
 
 Currently working on a **quantitative trading** system and running **[Backdoor Project](https://backdoor-project.com/)**.
 
