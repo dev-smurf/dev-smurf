@@ -9,6 +9,10 @@ Currently working on a **quantitative trading** system and running **[Backdoor P
 
 `quant` `claude` `finance` `ai` `python` `kubernetes`
 
+---
+
+### TokScale
+
 <a href="https://tokscale.ai/u/dev-smurf">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="tokscale-dark.svg" />
