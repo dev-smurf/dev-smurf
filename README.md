@@ -9,6 +9,8 @@ Currently working on a **quantitative trading** system and running **[Backdoor P
 
 `quant` `claude` `finance` `ai` `python` `kubernetes`
 
+[![TokScale](tokscale-card.svg)](https://tokscale.ai/u/dev-smurf)
+
 ---
 
 ### Contribution Snake
