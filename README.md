@@ -9,7 +9,12 @@ Currently working on a **quantitative trading** system and running **[Backdoor P
 
 `quant` `claude` `finance` `ai` `python` `kubernetes`
 
-[![TokScale](tokscale-card.svg)](https://tokscale.ai/u/dev-smurf)
+<a href="https://tokscale.ai/u/dev-smurf">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="tokscale-dark.svg" />
+    <img src="tokscale-light.svg" alt="TokScale stats" width="100%" />
+  </picture>
+</a>
 
 ---
 
