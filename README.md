@@ -21,6 +21,6 @@ Currently working on a **quantitative trading** system and running **[Backdoor P
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/dev-gabgingras/)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=flat-square)](#)
-[![Blog](https://img.shields.io/badge/-Blog-D97757?logo=blogger&logoColor=white&style=flat-square)](https://gabrielgingras.me/blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-gabgingras/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](#)
+[![Blog](https://img.shields.io/badge/Blog-%23D97757.svg?style=flat-square&logo=blogger&logoColor=white)](https://gabrielgingras.me/blog)
