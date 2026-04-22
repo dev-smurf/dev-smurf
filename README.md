@@ -1,8 +1,6 @@
-# Hey, I'm Gabriel Gingras
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Builder.;Entrepreneur.;Quant+Trading.;Agentic+AI.&font=Inter&weight=600&size=24&duration=2500&pause=1500&color=e6edf3&center=false&vCenter=true&width=350&height=35&repeat=true" />
-  <img src="https://readme-typing-svg.demolab.com/?lines=Builder.;Entrepreneur.;Quant+Trading.;Agentic+AI.&font=Inter&weight=600&size=24&duration=2500&pause=1500&color=1f2328&center=false&vCenter=true&width=350&height=35&repeat=true" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Gabriel+Gingras+%E2%80%94+Builder;Gabriel+Gingras+%E2%80%94+Entrepreneur;Gabriel+Gingras+%E2%80%94+Quant+Trading;Gabriel+Gingras+%E2%80%94+Agentic+AI&font=Inter&weight=700&size=30&duration=2000&pause=1500&color=e6edf3&center=false&vCenter=true&width=600&height=45&repeat=true" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Gabriel+Gingras+%E2%80%94+Builder;Gabriel+Gingras+%E2%80%94+Entrepreneur;Gabriel+Gingras+%E2%80%94+Quant+Trading;Gabriel+Gingras+%E2%80%94+Agentic+AI&font=Inter&weight=700&size=30&duration=2000&pause=1500&color=1f2328&center=false&vCenter=true&width=600&height=45&repeat=true" alt="Gabriel Gingras" />
 </picture>
 
 Currently working on a **quantitative trading** system and running **[Backdoor Project](https://backdoor-project.com/)**.
