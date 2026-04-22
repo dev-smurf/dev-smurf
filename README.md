@@ -1,6 +1,9 @@
 # Hey, I'm Gabriel Gingras
 
-<a href="https://gabrielgingras.me"><img src="https://readme-typing-svg.demolab.com/?lines=Builder;Entrepreneur;Quant+Trading;Agentic+AI&font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=2c2418&center=false&vCenter=true&width=300&height=30&repeat=true" alt="Typing SVG" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Builder.;Entrepreneur.;Quant+Trading.;Agentic+AI.&font=Inter&weight=600&size=24&duration=2500&pause=1500&color=e6edf3&center=false&vCenter=true&width=350&height=35&repeat=true" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Builder.;Entrepreneur.;Quant+Trading.;Agentic+AI.&font=Inter&weight=600&size=24&duration=2500&pause=1500&color=1f2328&center=false&vCenter=true&width=350&height=35&repeat=true" alt="Typing SVG" />
+</picture>
 
 Currently working on a **quantitative trading** system and running **[Backdoor Project](https://backdoor-project.com/)**.
 
