@@ -11,17 +11,6 @@ Currently working on a **quantitative trading** system and running **[Backdoor P
 
 ---
 
-### TokScale
-
-<a href="https://tokscale.ai/u/dev-smurf">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="tokscale-dark.svg" />
-    <img src="tokscale-light.svg" alt="TokScale stats" width="100%" />
-  </picture>
-</a>
-
----
-
 ### Contribution Snake
 
 <picture>
