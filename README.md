@@ -1,7 +1,7 @@
 # Hey, I'm Gab!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Builder.;Entrepreneur.;Quant+Trading.;Agentic+AI.&font=Inter&weight=600&size=26&duration=2000&pause=1500&color=9198a1&center=false&vCenter=true&width=350&height=38&repeat=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Builder.;Entrepreneur.;Agentic+AI.&font=Inter&weight=600&size=26&duration=2000&pause=1500&color=9198a1&center=false&vCenter=true&width=350&height=38&repeat=true" />
   <img src="https://readme-typing-svg.demolab.com/?lines=Builder.;Entrepreneur.;Quant+Trading.;Agentic+AI.&font=Inter&weight=600&size=26&duration=2000&pause=1500&color=656d76&center=false&vCenter=true&width=350&height=38&repeat=true" alt="Builder, Entrepreneur, Quant Trading, Agentic AI" />
 </picture>
 
