@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Builder.;Entrepreneur.;Quant+Trading.;Agentic+AI.&font=Inter&weight=600&size=26&duration=2000&pause=1500&color=656d76&center=false&vCenter=true&width=350&height=38&repeat=true" alt="Builder, Entrepreneur, Quant Trading, Agentic AI" />
 </picture>
 
-Currently working on a **quantitative trading** system and running **[Backdoor Project](https://backdoor-project.com/)**.
+Currently running **[Astrale](https://astrale.ca/)**.
 
-`quant` `claude` `finance` `ai` `kubernetes`
+`builder` `claude` `codex` `ai` `manufacturing` `codex` `spec` `agents`
 
 ---
 
